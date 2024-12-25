@@ -88,7 +88,7 @@ export default function HeroSection() {
             <p class="text-sm text-gray-500 dark:text-gray-400">CEO, Company XYZ</p>
           </div>
         </div>
-        <p class="text-gray-600 dark:text-gray-300">"This blog has been a game-changer for our business insights. Highly recommend!"</p>
+        <p class="text-gray-600 dark:text-gray-300">This blog has been a game-changer for our business insights. Highly recommend!</p>
       </div>
 
       
@@ -100,7 +100,7 @@ export default function HeroSection() {
             <p class="text-sm text-gray-500 dark:text-gray-400">Marketing Head, ABC Corp</p>
           </div>
         </div>
-        <p class="text-gray-600 dark:text-gray-300">"I always find valuable information here. It's my go-to resource for industry trends."</p>
+        <p class="text-gray-600 dark:text-gray-300">I always find valuable information here. Its my go-to resource for industry trends.</p>
       </div>
 
       
@@ -112,7 +112,7 @@ export default function HeroSection() {
             <p class="text-sm text-gray-500 dark:text-gray-400">Freelancer</p>
           </div>
         </div>
-        <p class="text-gray-600 dark:text-gray-300">"The insights and tips shared here have helped me grow my career exponentially."</p>
+        <p class="text-gray-600 dark:text-gray-300">The insights and tips shared here have helped me grow my career exponentially.</p>
       </div>
     </div>
   </div>

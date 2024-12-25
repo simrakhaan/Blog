@@ -24,12 +24,12 @@ const AboutPage = () => {
             About Us
           </h1>
           <p className="text-gray-700 dark:text-gray-300 mb-4">
-          I'm  Simra Khan,  and my goal is to develop responsive 
+          Im  Simra Khan,  and my goal is to develop responsive 
           and high-quality websites that provide an excellent user experience. 
             
           </p>
           <p className="text-gray-700 dark:text-gray-300">
-          Welcome to  blog! I'm are passionate about sharing knowledge, 
+          Welcome to  blog! Im are passionate about sharing knowledge, 
             exploring new ideas, and creating a community of curious minds. Our goal 
             is to provide valuable insights and engaging content that empowers our readers.
             
