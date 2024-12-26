@@ -5,10 +5,6 @@
 import Image from "next/image"
 
 
-
-
-
-
 export default function HeroSection() {
   const handleSubmit = (e) => {
     e.preventDefault();
